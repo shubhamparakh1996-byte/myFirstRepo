@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Demo {
     
     // Student class to demonstrate object-oriented programming
@@ -8,6 +9,7 @@ public class Demo {
         String name;
         int age;
         double gpa;
+        String name2 = "Sijsbckasjbcksbc";
         
         Student(String name, int age, double gpa) {
             this.name = name;
@@ -35,6 +37,7 @@ public class Demo {
             sum += num;
         }
         System.out.println("Sum of array: " + sum);
+
         System.out.println("Average: " + (sum / numbers.length) + "\n");
         
         // Demo 2: Working with ArrayList
@@ -79,3 +82,4 @@ public class Demo {
 }
 
 //hjbawvuigfuehfjeofihqehfoihjefiquehfqoeifhqe/ip
+// Sumit changes
